@@ -19,5 +19,5 @@ Here user have a great experience.
 HTML, CSS, JavaScript
 
 ## Visit:
-[weatherApp](https://aadeshnichite.github.io/CanvasGame/)
+[weatherApp](https://aadeshnichite.github.io/Weather-App/)
 
